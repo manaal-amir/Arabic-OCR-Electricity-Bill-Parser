@@ -24,7 +24,11 @@ Removes tatweel (ـ), diacritics, and random spacing between Arabic letters.
 Uses robust regex patterns that match:  
 - spaced Arabic labels   
 - glued labels 
-- reversed patterns (number before label)  
+- reversed patterns (number before label)
+
+## Output in terminal:  
+<img width="948" height="822" alt="image" src="https://github.com/user-attachments/assets/1940c8eb-4bba-49c0-b3a3-135dde724b77" />  
+
 
 ## Limitations  
 - OCR accuracy depends on the quality of the scanned PDF.
